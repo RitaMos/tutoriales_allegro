@@ -5,6 +5,8 @@
 // https://github.com/liballeg/allegro_wiki/wiki/Allegro-Vivace
 // gcc hello.c -o hello $(pkg-config allegro-5 allegro_font-5 --libs --cflags)
 
+//WAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
 int main()
 {
 
